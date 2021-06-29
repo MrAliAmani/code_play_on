@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">36sp</dimen>
+    <dimen name="text">20sp</dimen>
+    <dimen name="text_mini">14sp</dimen>
+    <dimen name="text_forgot_button">12sp</dimen>
+
+    <dimen name="padding_horizontal">16dp</dimen>
+    <dimen name="padding_vertical">16dp</dimen>
+    <dimen name="padding_text">8dp</dimen>
+    <dimen name="padding_horizontal_text">8dp</dimen>
+
+    <dimen name="margin_horizontal">12dp</dimen>
+    <dimen name="margin_vertical">40dp</dimen>
+    <dimen name="margin_vertical_edit_text">12dp</dimen>
+    <dimen name="margin_top_button">10dp</dimen>
+    <dimen name="margin_end_button">12dp</dimen>
+
+    <dimen name="corner_radius">10dp</dimen>
+
+</resources>

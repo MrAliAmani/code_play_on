@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Code Play On</string>
+
+    <string name="welcome">Welcome to</string>
+    <string name="code_play_on">Codplayon.com</string>
+    
+    <string name="user_id_hint">Enter your login UserID</string>
+    <string name="password_hint">Password</string>
+
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+</resources>
